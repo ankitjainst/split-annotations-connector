@@ -34,15 +34,15 @@
         </repository>
     </repositories>
 
-    <dependencies>
-        <dependency>
-            <groupId>org.mule.modules</groupId>
-            <artifactId>split-annotations-base</artifactId>
-            <version>1.0-SNAPSHOT</version>
-            <scope>provided</scope>
-            <!--<classifier>sources</classifier>-->
-        </dependency>
-    </dependencies>
+    <!--<dependencies>-->
+        <!--<dependency>-->
+            <!--<groupId>org.mule.modules</groupId>-->
+            <!--<artifactId>split-annotations-base</artifactId>-->
+            <!--<version>1.0-SNAPSHOT</version>-->
+            <!--<scope>provided</scope>-->
+            <!--&lt;!&ndash;<classifier>sources</classifier>&ndash;&gt;-->
+        <!--</dependency>-->
+    <!--</dependencies>-->
 
     <!--<build>-->
         <!--<plugins>-->

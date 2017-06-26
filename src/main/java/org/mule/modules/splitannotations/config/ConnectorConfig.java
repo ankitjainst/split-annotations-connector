@@ -3,7 +3,7 @@ package org.mule.modules.splitannotations.config;
 import org.mule.api.annotations.components.Configuration;
 import org.mule.api.annotations.Configurable;
 import org.mule.api.annotations.param.Default;
-import org.mule.modules.BaseConfig;
+import org.mule.modules.baseannotations.BaseConfig;
 
 @Configuration(friendlyName = "Configuration")
 public class ConnectorConfig extends BaseConfig{

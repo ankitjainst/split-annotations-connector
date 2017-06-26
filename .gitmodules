@@ -1,0 +1,3 @@
+[submodule "src/main/java/org/mule/modules/baseannotations"]
+	path = src/main/java/org/mule/modules/baseannotations
+	url = https://github.com/ankitjainst/split-annotations-base
